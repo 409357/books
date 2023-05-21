@@ -1,1 +1,2 @@
 080901/* filter=lfs diff=lfs merge=lfs -text
+base/** filter=lfs diff=lfs merge=lfs -text
