@@ -11,3 +11,4 @@ all3/** filter=lfs diff=lfs merge=lfs -text
 all2/** filter=lfs diff=lfs merge=lfs -text
 all1/** filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 3e0e8465e557cbf9d975a41cd8294c47e8efb96a
+li/** filter=lfs diff=lfs merge=lfs -text
