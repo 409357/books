@@ -9,3 +9,4 @@ all2/** filter=lfs diff=lfs merge=lfs -text
 all1/** filter=lfs diff=lfs merge=lfs -text
 li/** filter=lfs diff=lfs merge=lfs -text
 new/** filter=lfs diff=lfs merge=lfs -text
+vv/** filter=lfs diff=lfs merge=lfs -text
